@@ -27,7 +27,7 @@ Site institucional e de vendas da **SysOs**, empresa fictícia que oferece um si
 Site estático, sem build:
 
 ```bash
-git clone https://github.com/darkslipx/Projeto-Final.git
+git clone https://github.com/Abner-Duarte/Projeto-Final.git
 cd Projeto-Final
 # abra index.html no navegador (ou use a extensão Live Server do VS Code)
 ```
@@ -49,4 +49,4 @@ Projeto-Final/
 
 ## 👤 Autor
 
-**Abner Evandro Duarte** — [@darkslipx](https://github.com/darkslipx)
+**Abner Evandro Duarte** — [@Abner-Duarte](https://github.com/Abner-Duarte)
